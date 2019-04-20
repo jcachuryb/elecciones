@@ -1,0 +1,17 @@
+img.candidato{
+    height: 400px;
+}
+
+
+.card-nombre {
+    background: #c3b04e;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 27px;
+}
+
+.seccion{
+    
+}
